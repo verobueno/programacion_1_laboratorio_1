@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522116851 source:/home/martin/Tecnicatura/Laboratorio/clase3-funciones/clase3/main.c
+	<stdio.h>
+	<stdlib.h>
+
