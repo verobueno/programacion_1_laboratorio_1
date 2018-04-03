@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522765841 source:c:\test\clase5\vectores-funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
