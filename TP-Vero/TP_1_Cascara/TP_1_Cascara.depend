@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523232916 source:/home/martin/Tecnicatura/Programacion1y-laboratorio1-master/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 /home/martin/Tecnicatura/Programacion1y-laboratorio1-master/TP_1_Cascara/funciones.h
+
