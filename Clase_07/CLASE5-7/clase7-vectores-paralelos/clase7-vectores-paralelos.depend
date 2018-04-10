@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523371231 source:c:\test\clase5-7\clase7-vectores-paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
