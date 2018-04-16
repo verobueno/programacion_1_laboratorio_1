@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523881366 source:c:\test\clase5-7\pruebafuncion\main.c
+	<stdio.h>
+	<stdlib.h>
+
