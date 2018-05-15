@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526395265 source:c:\test\clase10\punterosaestruc\main.c
+	<stdio.h>
+	<stdlib.h>
+
